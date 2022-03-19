@@ -1,0 +1,1 @@
+This is value of first file: Hello this is first text file!, and there is value of second Hello this is second text file!This is value of first file: Hello this is first text file!, and there is value of second Hello this is second text file!
